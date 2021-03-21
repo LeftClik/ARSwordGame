@@ -7,7 +7,7 @@
 In this game, there will be an incremental spawning of zombies which are loaded in with EchoAR. Swipe or drag up on the sword to collide with the zombies and kill them.
 
 ## Instructions
-In order to start this project, first ensure that you have the EchoAR Unity SDK set up and working with Unity version 2019.2.14f. When you have that completed, download this repo and drag the AR Sword Project into the root directory. Then, load the ARSwordProject Scene into Unity and click play. Swiping up throws the sword. 
+In order to start this project, first ensure that you have the EchoAR Unity SDK set up and working with Unity version 2019.2.14f. When you have that completed, download the example repo from the echoAR platform, with Unity + AR Foundation files. Then, download this repo and drag the AR Sword Project into the assets directory. Then, load the ARSwordProject Scene into Unity and click play. Swiping up throws the sword. 
 
 Note: To run on an Android device, you must download the Android Build Tools, and you must configure Unity to support your android device which you have to plug into the computer. Then, click on File, Build Settings, Build and Run, and the project should run on your Android Device.
 
